@@ -1,2 +1,4 @@
 # test
-mon premier projet sous git
+name : Serigne Babacar Matar Ndiaye
+email : abubamat11@gmail.com
+identifiant slack : Abubakar
